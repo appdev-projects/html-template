@@ -1,3 +1,3 @@
-# HTML-Template
+# html-template
 
-Use this template to create static HTML websites that you want to host on GitHub pages.
+Use this template to create static HTML websites.
