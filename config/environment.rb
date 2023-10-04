@@ -1,11 +1,8 @@
 require "./app"
 
 configure do
-  # GitHub pages deployment
+  # GitHub Pages and Render deployment
   set(:public_folder, "./")
-
-  # To open .html.erb files, need to register them
-  Tilt.register(Tilt::ERBTemplate, "html.erb")
 end
 
 configure :development do
